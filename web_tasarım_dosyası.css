@@ -1,0 +1,45 @@
+h1{
+    color: brown;
+    text-align: center;
+    font-size: 80px;
+}
+table{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom: 10px;
+       
+}
+
+h2{
+    color: crimson;
+    text-align: start;
+    font-size: 40px;
+}
+img{
+    align-self: center;
+    width: 36em;
+    position: static;
+}
+h3{
+    color: lightseagreen;
+    text-align: start;
+    font-size: 30px;
+    margin-left: 8%;
+}
+article{
+    text-decoration:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 5%;
+    margin-left: 8%;
+    margin-right: 5%;
+    
+}
+img{
+    margin-left: 30%;
+}
+nav{
+    margin-left: 35%;
+}
+{
+color: bisque;
+}
